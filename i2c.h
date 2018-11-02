@@ -11,7 +11,7 @@
 /********************************************************************************
 *    Macro Define Section
 ********************************************************************************/
-#define RCC_I2C_ClockCmd	   RCC_APB1PeriphClockCmd
+#define RCC_I2C_ClockCmd     RCC_APB1PeriphClockCmd
 #define RCC_GPIO_ClockCmd    RCC_APB2PeriphClockCmd
 
 #define SCL_GPIO_MODE    GPIO_Mode_AF_OD
