@@ -33,6 +33,7 @@
 #define Macro_Ack                    I2C_Ack_Enable 
 #define Macro_AcknowledgedAddress    I2C_AcknowledgedAddress_7bit
 
+
 /********************************************************************************
 *    Prototype Declare Section
 ********************************************************************************/
