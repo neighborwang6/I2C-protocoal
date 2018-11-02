@@ -28,11 +28,10 @@
 
 #define Macro_Mode                   I2C_Mode_I2C
 #define Macro_ClockSpeed             400000
-#define	Macro_OwnAddress1            0xaa
+#define Macro_OwnAddress1            0xaa
 #define Macro_DutyCycle              I2C_DutyCycle_2
 #define Macro_Ack                    I2C_Ack_Enable 
 #define Macro_AcknowledgedAddress    I2C_AcknowledgedAddress_7bit
-
 
 /********************************************************************************
 *    Prototype Declare Section
